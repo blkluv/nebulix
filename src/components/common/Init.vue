@@ -98,7 +98,7 @@ watch(width, (val) => {
       "%c ♻️🔋+ 🧠👷🏽+ 🗜 = 🚀🍃🌐" +
         "\n%cThis site has a low carbon footprint " +
         "\n%c🪙CREDITS:" +
-        "\n%cTheme based on Nebulix 🌌" +
+        "\n%cTheme based on Healxyz.store 🌌" +
         "\n%cby: https://unfolding.io",
       "font-family:Verdana; font-size: 20px; color: #2A4D47; font-weight:bold; padding: 5px 0; opacity: 0.5; ",
       "font-family:Verdana; font-size: 25px; color: #2A4D47; font-weight:bold; padding: 5px 0; ",
